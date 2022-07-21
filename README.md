@@ -1,4 +1,4 @@
-# Hello there, I'm Caique! 😁
+# Hello there, I'm Caique! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caique-giovannini)](https://www.linkedin.com/in/caique-giovannini)
 [![Hotmail Badge](https://img.shields.io/badge/-caique_giovannini@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caique_giovannini@hotmail.com)](mailto:caique_giovannini@hotmail.com)
